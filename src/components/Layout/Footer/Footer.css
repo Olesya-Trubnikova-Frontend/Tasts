@@ -1,0 +1,7 @@
+.footer{
+  grid-area: footer;
+
+}
+.footer__container{
+  text-align: center;
+}
